@@ -1,4 +1,3 @@
-
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.sparkle-project.org/rss/1.0/dc/elements/1.0/" version="2.0">
     <channel>
@@ -6,8 +5,6 @@
         <link>https://DethleSS.github.io/OrisisAppReleases/snaptext/appcast.xml</link>
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
-
-        <!-- Latest version first -->
         <item>
             <title>Version 1.3</title>
             <sparkle:version>4</sparkle:version>
@@ -16,7 +13,7 @@
             <description><![CDATA[
                 <h3>What's New in SnapText 1.3</h3>
                 <ul>
-                    <li>Improved update check UI with status persistence</li>
+                    <li>Improved update check UI</li>
                     <li>Last checked date saved between sessions</li>
                     <li>Auto-check interval set to 24 hours</li>
                 </ul>
@@ -28,7 +25,6 @@
                 length="1883686"
                 type="application/octet-stream"/>
         </item>
-
         <item>
             <title>Version 1.2</title>
             <sparkle:version>3</sparkle:version>
