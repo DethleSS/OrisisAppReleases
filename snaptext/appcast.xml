@@ -13,15 +13,15 @@
             <description><![CDATA[
                 <h3>What's New in SnapText 1.4</h3>
                 <ul>
-                    <li>Fixed update state tracking after errors</li>
-                    <li>Improved idle status with last check info</li>
+                    <li>Fixed update installer (XPC services)</li>
+                    <li>Improved error state handling</li>
                 </ul>
             ]]></description>
-            <pubDate>Sat, 08 Mar 2025 02:35:00 +0000</pubDate>
+            <pubDate>Sat, 08 Mar 2025 02:45:00 +0000</pubDate>
             <enclosure
                 url="https://github.com/DethleSS/OrisisAppReleases/releases/download/snaptext-v1.4/SnapText-1.4.zip"
-                sparkle:edSignature="tTnNs7MMD9xy6H442p/MixX/Vak+7pgalwSYxn1Sf2gViiu2lXsp/LXOtBH+7l97FZr5gOp0Faxna4yc8LFCAw=="
-                length="1884522"
+                sparkle:edSignature="gY5y5bnypyfSPNGffouQWcPvNFCzZCu+QI4qhiKKoFdMITedFEJnV3Yt/20uDMK+9/Vzga77ozZ9o7WMd3asBw=="
+                length="1982032"
                 type="application/octet-stream"/>
         </item>
         <item>
@@ -34,7 +34,6 @@
                 <ul>
                     <li>Improved update check UI</li>
                     <li>Last checked date saved between sessions</li>
-                    <li>Auto-check interval set to 24 hours</li>
                 </ul>
             ]]></description>
             <pubDate>Sat, 08 Mar 2025 02:03:00 +0000</pubDate>
