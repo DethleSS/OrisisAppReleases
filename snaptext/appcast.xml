@@ -2,5 +2,18 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>SnapText Updates</title>
+    <item>
+      <title>Version 1.2</title>
+      <pubDate>Sat, 08 Mar 2026 12:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/ВАШ_USERNAME/app-releases/releases/download/snaptext-v1.2/SnapText-1.2.zip"
+        sparkle:version="2"
+        sparkle:shortVersionString="1.2"
+        sparkle:edSignature="DbrHfnBJA0f/iEChWDndWTQ8mAFRHEQ+s3qk+w9njHXWbvY4Hcz5g6qKbffk1xIMJfJZRZKs349wCzEHR+0jCQ=="
+        length="1871682"
+        type="application/octet-stream"
+      />
+    </item>
   </channel>
 </rss>
