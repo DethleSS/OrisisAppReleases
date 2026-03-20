@@ -6,6 +6,25 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
+            <title>Version 1.5</title>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h3>What's New in SnapText 1.5</h3>
+                <ul>
+                    <li>Frozen background capture — hover-dependent UI (YouTube controls, tooltips) stays visible during selection</li>
+                    <li>Line break management — new setting to preserve or collapse line breaks in OCR output</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 20 Mar 2026 12:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/DethleSS/OrisisAppReleases/releases/download/snaptext-v1.5/SnapText-1.5.zip"
+                sparkle:edSignature="MXVnq1FqrQOn9cgEpQMbmXvhYFCXHFGV4u26YHs8pEuAXxwZm7UXK7Mx+Z9q4oNI6cTQdH6aSVb0pl+u/mOKBQ=="
+                length="1680590"
+                type="application/octet-stream"/>
+        </item>
+        <item>
             <title>Version 1.4</title>
             <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
@@ -20,7 +39,7 @@
             <pubDate>Sat, 08 Mar 2025 02:45:00 +0000</pubDate>
             <enclosure
                 url="https://github.com/DethleSS/OrisisAppReleases/releases/download/snaptext-v1.4/SnapText-1.4.zip"
-                edSignature="ahQKlvBG0YmAx8H8NAOT7vPKHRTyUmRWDgkQoajRJgKefTjgVssXqnMp9Semcj4Oqzj4neUppbEhibEi2PUjBA=="
+                sparkle:edSignature="ahQKlvBG0YmAx8H8NAOT7vPKHRTyUmRWDgkQoajRJgKefTjgVssXqnMp9Semcj4Oqzj4neUppbEhibEi2PUjBA=="
                 length="1865968"
                 type="application/octet-stream"/>
         </item>
